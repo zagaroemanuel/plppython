@@ -1,0 +1,5 @@
+This is a good example.
+It's important to handle text carefully.
+Some lines might be empty.
+
+Others could have important information.
